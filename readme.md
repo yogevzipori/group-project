@@ -1,5 +1,6 @@
 # Class Roster Project
 
 Wednesday
-Yogi Zipori 
+Yogi Zipori
+Angad Bhatti
 Contributed to by Jane Doe, Code Ninja
